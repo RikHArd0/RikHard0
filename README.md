@@ -1,9 +1,12 @@
+Hi! My name is Sérgio Ricardo. 
+
+
 <div>
   <a href="https://github.com/RikHArd0">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=RikHArd0&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikHArd0&&layout=compact&hide=shell&theme=jolly"/>
 
-  <img align="center" width="148" height="180" src="https://tenor.com/vEnn.gif">
+  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/4216daebbfe105abab79067acbff54c9/tenor.gif?itemid=5121027">
 </div>
  <br>
 <div  align="center"> 
