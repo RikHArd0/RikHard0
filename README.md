@@ -2,8 +2,8 @@ Hi! My name is Sérgio Ricardo.
 
  <div>
   <a href="https://github.com/RikHard0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RikHard0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikHard0&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=RikHard0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RikHard0&layout=compact&langs_count=16&theme=dracula"/>
    
  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/4216daebbfe105abab79067acbff54c9/tenor.gif?itemid=5121027">
 
