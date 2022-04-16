@@ -29,7 +29,7 @@ Hi! My name is Sérgio Ricardo.
 <div> 
   
   <a href="https://instagram.com/ricserginho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/sergio-ricardo-salom%C3%A3o-dos-santos-199396210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+    <a href="https://www.linkedin.com/in/s%C3%A9rgio-ricardo-199396210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
  
   ![Snake animation](https://github.com/RikHard0/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
