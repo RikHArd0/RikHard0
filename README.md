@@ -1,4 +1,4 @@
-Hi!I'm Sérgio Ricardo. 
+Hi! I'm Sérgio Ricardo. 
 
  <div>
   <a href="https://github.com/RikHard0">
